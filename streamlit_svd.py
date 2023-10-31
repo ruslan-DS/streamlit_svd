@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from matplotlib import pyplot
+from matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 from sklearn.decomposition import TruncatedSVD
